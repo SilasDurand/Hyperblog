@@ -1,3 +1,5 @@
 Hagamos historia estuduando en platzi
 
 Hoy somo 72 horas 
+
+Estoy en el curso de Git
