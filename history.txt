@@ -5,3 +5,6 @@ Hoy somo 72 horas
 Estoy en el curso de Git
 
 El profesor es Fredy vega
+
+
+Hoy es el SEO de platzi.
